@@ -15,10 +15,10 @@ void setup() {
   pinMode(ledPin, OUTPUT);  //LED is output
   pinMode(buttonIN, INPUT); //Button input/trigger
   
-  Serial.begin(9600);
+  Serial.begin(9600);       //Starts the Searial monitor
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-
+  buttonStatus = digitalRead(buttonIn);  //is the button pressed
+  Serial.println(buttonStatus);          //prints if the button is pressed or not
 }
