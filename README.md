@@ -16,5 +16,5 @@ This is a link to a video of the arduino running off of wall power. It is runnin
 <img src="images/button-diagram.jpg" width = 640>
 
 ## #4
-- Below is my plan for a lantern. I am going to use paper mache to cover a balloon to form a cover for the LED and wiring. I am using tissue paper to keep the walls thin for the light to pass through.
+- Below is my plan for a lantern. I am going to use paper mache to cover a balloon to form a cover for the LED and wiring. I am using tissue paper to keep the walls thin for the light to pass through. There will be two wires passing through the dome that run to the arduino.
 <img src="images/lantren-design.jpg" height = 640>
