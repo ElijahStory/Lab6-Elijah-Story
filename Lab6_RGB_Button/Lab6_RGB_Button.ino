@@ -13,7 +13,8 @@ int buttonStatus = 0; //pushed or not (0 is not)
 
 void setup() {
   pinMode(ledPin, OUTPUT);  //LED is output
-  pinMode(buttonIN, INPUT); //Button input/trigger
+  pinMode(buttonIn, INPUT); //Button input/trigger
+  digitalWrite(ledPin, HIGH);//Sets the LED pin to output power
   
   Serial.begin(9600);       //Starts the Searial monitor
 }
