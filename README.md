@@ -13,7 +13,7 @@ This is a link to a video of the arduino running off of wall power. It is runnin
 ## #3
 - Here is a video of the LED turning on and off with a button press. [Button LED](https://photos.app.goo.gl/QXfSZPQydxC5HqB19)
 - Below is a diagram of the wiring for the button press circuit.
-<img src="images/button-diagram.jpg" height = 640>
+<img src="images/button-diagram.jpg" width = 640>
 
 ## #4
 - Below is my plan for a lantern. I am going to use paper mache to cover a balloon to form a cover for the LED and wiring. I am using tissue paper to keep the walls thin for the light to pass through.
