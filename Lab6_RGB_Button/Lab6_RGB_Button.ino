@@ -3,7 +3,6 @@
 //Button press LED on
 //10-16-2020
 
-//From: 
 //Press the button, the LED turns on.
 
 int ledPin = 13;  //LED power scorce
